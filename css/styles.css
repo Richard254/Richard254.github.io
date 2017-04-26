@@ -14,35 +14,33 @@ p.p1{
   text-align: left;
 }
 .info{
-  background-color: yellow;
-  padding: 4px;
-  margin: 2px;
-  border: 3px solid black;
-  font-family: serif;
+  text-align: center;
+  background-color: white;
+  padding: 18px;
+  margin: 16px;
+  border: 3px solid pink;
+  font-family: Aharoni;
   color:black;
-  font-size: 20px
+  font-size: 25px
 }
 body.newb{
-  background-color: grey;
-  background-image: url(colour2.jpeg);
-}
-h1.second{
-  background-color: yellow;
-  font-family: serif;
-  font-style: oblique;
-  font-size: 30px;
-  color: black
-}
-ul.uo{
-  background-color: yellow;
-  font-family: Helevitica;
-  font-size: 20px;
-  font-color:black;
-  padding: 4px;
-  margin: 2px;
-  border: 3px solid black;
+background-image: image(colour.png);}
+p1.second{
+  font-family:Aharoni;
+  font-size: 25px;
+  color: black;
+
 }
 p.about{
    font-size: 20px;
    font-family: fantasy;
+ }
+ p.alt{
+   font-family: Poor Richard;
+   font-size: 30px;
+   border: 3px solid red;
+   border-width: thin;
+   border-style:double;
+   text-align: center;
+
  }
